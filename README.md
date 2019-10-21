@@ -1,6 +1,6 @@
 # sql-zoo-lab
 
-Create a file `sql-zoo.sql` and paste the solutions of your [sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial) questions like so:
+In the file `sql-zoo.sql` and paste the solutions of your [sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial) questions like so:
 
 ```sql
 --
