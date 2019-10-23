@@ -173,3 +173,13 @@ WHERE winner IN ('Theodore Roosevelt',
 SELECT winner
 FROM nobel
 WHERE winner LIKE 'John%'
+
+-- Show the year, subject,
+-- and name of Physics winners for 1980 together
+-- with the Chemistry winners for 1984.
+SELECT *
+FROM nobel
+WHERE yr = 1980
+    AND subject = 'Physics'
+    OR yr = 1984
+    And subject ='Chemistry'
