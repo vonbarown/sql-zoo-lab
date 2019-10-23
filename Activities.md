@@ -8,6 +8,9 @@ Pair up with a neighbor and discuss:
 | ----------- | ----------------------------- |
 | `SELECT`    | Used for selecting columns    |
 |             |                               |
+|             |                               |
+|             |                               |
+|             |                               |
 
 * What are the SQL logical operators counter parts to this JavaScript logical operators. Give an example of their use
 
